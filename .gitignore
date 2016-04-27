@@ -56,17 +56,4 @@ Thumbs.db
 # Specific project folders #
 ############################
 
-spitamen-common-datamodel/target
-spitamen-common-utils/target
-spitamen-expresspay-adapter/target
-spitamen-mdmproviders-adapter/target
-spitamen-qiwi-adapter/target
-spitamen-expresspay-mock/target
-spitamen-qiwi-mock/target
-spitamen-flexcube-adapter/target
-spitamen-canonical-services/spitamen-srv-router/target
-spitamen-canonical-services/spitamen-srv-newPayment/target
-spitamen-canonical-services/spitamen-srv-getProviderList/target
-spitamen-canonical-services/spitamen-srv-checkPaymentStatus/target
-spitamen-canonical-services/spitamen-srv-updateProviderList/target
-spitamen-bkit-adapter/target
+target
